@@ -1,6 +1,3 @@
-from platform import java_ver
-
-
 def min_value(array):
     min_index = 0
     for i in range(1,len(array)-1):
