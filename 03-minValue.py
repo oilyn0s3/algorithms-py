@@ -7,4 +7,5 @@ def min_value(array):
         else:
             i += 1
     print(f'min value: {array[min_index]}')
+    
 min_value([10,9,4,3,7])
