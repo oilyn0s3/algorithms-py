@@ -6,6 +6,7 @@ def bubble(array):
                 temp = array[i]
                 array[i] = array[i+1]
                 array[i+1] = temp
+                
         print(f"pass #{j}\n{array}")
 
     print(f"\nsorted array {array}")
